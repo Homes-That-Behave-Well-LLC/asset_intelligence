@@ -23,6 +23,6 @@ It helps you answer:
 
 ## Documentation
 
-- Wiki: https://github.com/tom-tagmdl/asset_intelligence/wiki
-- Getting Started: https://github.com/tom-tagmdl/asset_intelligence/wiki/Getting-Started
-- Troubleshooting: https://github.com/tom-tagmdl/asset_intelligence/wiki/Troubleshooting
+- Wiki: https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki
+- Getting Started: https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki/Getting-Started
+- Troubleshooting: https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki/Troubleshooting

@@ -25,15 +25,15 @@ into
 
 To understand how the system works:
 
-- 👉 [Concepts](https://github.com/tom-tagmdl/asset_intelligence/wiki/Concepts)
-- 👉 [Getting Started](https://github.com/tom-tagmdl/asset_intelligence/wiki/Getting-Started)
-- 👉 [System Flow Overview](https://github.com/tom-tagmdl/asset_intelligence/wiki/System-Flow-Overview)
+- 👉 [Concepts](https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki/Concepts)
+- 👉 [Getting Started](https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki/Getting-Started)
+- 👉 [System Flow Overview](https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki/System-Flow-Overview)
 
 ## Documentation
 
-- Wiki: https://github.com/tom-tagmdl/asset_intelligence/wiki
-- Getting Started: https://github.com/tom-tagmdl/asset_intelligence/wiki/Getting-Started
-- Troubleshooting: https://github.com/tom-tagmdl/asset_intelligence/wiki/Troubleshooting
+- Wiki: https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki
+- Getting Started: https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki/Getting-Started
+- Troubleshooting: https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki/Troubleshooting
 
 ---
 
@@ -42,12 +42,10 @@ To understand how the system works:
 ### HACS (Recommended)
 
 1. Open HACS in Home Assistant.
-2. Go to Integrations.
-3. Click the menu and select Custom repositories.
-4. Add `https://github.com/tom-tagmdl/asset_intelligence` with category `Integration`.
-5. Search for `Asset Intelligence` and install.
-6. Restart Home Assistant.
-7. Go to Settings > Devices & Services > Add Integration and add `Asset Intelligence`.
+2. Go to Integrations and select the search/explore action.
+3. Search for `Asset Intelligence` and install it.
+4. Restart Home Assistant.
+5. Go to Settings > Devices & Services > Add Integration and add `Asset Intelligence`.
 
 ### Initial Setup Example
 
@@ -62,12 +60,6 @@ Notes:
 - Default labels are applied automatically to new assets.
 - The panel now prompts for a reload when a newer frontend bundle is detected after an upgrade.
 - If frontend updates still are not immediately visible after an upgrade, perform a hard browser refresh.
-
-### My Home Assistant Link
-
-Track this repository directly in HACS:
-
-[![Open your Home Assistant instance and show this repository inside HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=tom-tagmdl&repository=asset_intelligence&category=integration)
 
 ---
 

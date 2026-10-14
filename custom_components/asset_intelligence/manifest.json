@@ -4,10 +4,10 @@
   "codeowners": ["@tom-tagmdl"],
   "config_flow": true,
   "dependencies": ["http"],
-  "documentation": "https://github.com/tom-tagmdl/asset_intelligence/wiki",
+  "documentation": "https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/wiki",
   "integration_type": "hub",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/tom-tagmdl/asset_intelligence/issues",
+  "issue_tracker": "https://github.com/Homes-That-Behave-Well-LLC/asset_intelligence/issues",
   "loggers": ["custom_components.asset_intelligence"],
   "requirements": [],
   "version": "1.0.12"
