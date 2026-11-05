@@ -37,6 +37,18 @@ To understand how the system works:
 
 ---
 
+## Future development and Homes That Behave Well
+
+Asset Intelligence remains available as a Home Assistant integration and represents the predecessor implementation for asset-focused capabilities developed during the early Homes That Behave Well work.
+
+Future architectural development of these capabilities is moving to [Homes That Behave Well (HTBW)](https://github.com/Homes-That-Behave-Well-LLC/homes_that_behave_well) and, where appropriate, Home Steward. The former Asset Intelligence enhancement roadmap (issues #2–#12) has therefore been closed here after each planned capability was individually reconciled against current HTBW architecture and roadmap.
+
+These issue closures do not indicate that existing Asset Intelligence functionality is defective or abandoned. They indicate that future development is being governed through HTBW rather than maintained as a separate Asset Intelligence roadmap.
+
+Asset Intelligence remains useful as predecessor implementation and migration evidence as HTBW evolves.
+
+---
+
 ## Installation
 
 ### HACS (Recommended)
